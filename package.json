@@ -1,0 +1,29 @@
+{
+  "name": "sync-two-axes",
+  "description": "Algorithm to sync/align two axes' ticks using as nice a value as possible.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pc592/SyncTwoAxes.git"
+  },
+  "keywords": [
+    "graph",
+    "graphs",
+    "axis",
+    "axes",
+    "sync",
+    "align",
+    "ticks",
+    "tick",
+    "marks"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pc592/SyncTwoAxes/issues"
+  },
+  "homepage": "https://github.com/pc592/SyncTwoAxes#readme"
+}
