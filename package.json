@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pc592/SyncTwoAxes.git"
+    "url": "https://github.com/pc592/sync-two-axes.git"
   },
   "keywords": [
     "graph",
@@ -23,7 +23,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pc592/SyncTwoAxes/issues"
+    "url": "https://github.com/pc592/sync-two-axes/issues"
   },
-  "homepage": "https://github.com/pc592/SyncTwoAxes#readme"
+  "homepage": "https://github.com/pc592/sync-two-axes#readme"
 }

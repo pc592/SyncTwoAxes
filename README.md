@@ -1,4 +1,4 @@
-# SyncTwoAxes
+# sync-two-axes
 Algorithm to sync/align two axes' ticks using as nice a value as possible.
 
 Inspiration: https://stackoverflow.com/questions/8506881/nice-label-algorithm-for-charts-with-minimum-ticks/16363437#16363437
