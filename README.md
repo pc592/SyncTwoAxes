@@ -5,7 +5,7 @@ Inspiration: https://stackoverflow.com/questions/8506881/nice-label-algorithm-fo
 
 "[T]he "nicest" numbers in decimal are 1, 2, and 5, and all power-of-ten multiples of these numbers"
 
-## Development
+## Development/Contributing
 
 I, unfortunately, have decided to do this on windows.
 
@@ -13,4 +13,4 @@ I, unfortunately, have decided to do this on windows.
   
   I chose to use nvm-windows.
 
-  current nvm latest: v18.6.0
+  Current nvm latest: v18.6.0
