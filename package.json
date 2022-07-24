@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
+    "lint": "npx eslint . --ext .js",
     "test": "jest"
   },
   "repository": {
@@ -27,6 +28,9 @@
   },
   "homepage": "https://github.com/pc592/sync-two-axes#readme",
   "devDependencies": {
+    "eslint": "^8.20.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
     "jest": "^28.1.3"
   }
 }
