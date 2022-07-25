@@ -2,7 +2,7 @@
   "name": "sync-two-axes",
   "description": "Algorithm to sync/align two axes' ticks using as nice a value as possible.",
   "version": "0.0.1",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "lint": "npx eslint . --ext .js",
     "test": "jest"
