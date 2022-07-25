@@ -1,10 +1,10 @@
 {
   "name": "sync-two-axes",
-  "description": "Algorithm to sync/align two axes' ticks using as nice a value as possible.",
+  "description": "Algorithm to sync/align two axes' ticks so that their intervals are 'nice'.",
   "version": "0.0.1",
   "main": "src/index.js",
   "scripts": {
-    "lint": "npx eslint . --ext .js",
+    "lint": "npx eslint src/ --ext .js",
     "test": "jest"
   },
   "repository": {
